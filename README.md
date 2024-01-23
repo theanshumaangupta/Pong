@@ -1,2 +1,1 @@
-# Pong
-https://anshumangupta-code.github.io/Pong/
+https://theanshumaangupta.github.io/Pong/
